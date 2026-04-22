@@ -1,11 +1,10 @@
 .gradle/
+.idea/
+.kotlin/
 build/
-local.properties
 */build/
 captures/
-.idea/
-
+local.properties
 .tmp/
-.kotlin/
 *.apk
 *.idsig
